@@ -36,8 +36,8 @@
           <configuration>
           <suiteXmlFiles>
           <suiteXmlFile>
-          Hamfile
-          </suiteXmlFile></suiteXmlFiles></configuration>
+          
+          </suiteXmlFile>testng.xml</suiteXmlFiles></configuration>
         </plugin>
          <plugin>
           <groupId>org.apache.maven.plugins</groupId>
